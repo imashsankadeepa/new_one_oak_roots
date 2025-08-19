@@ -143,6 +143,7 @@ const teamMembers = [
     'Keep your fridge and sink smelling fresh.',
     'Organize cleaning supplies for easier use.',
     'Save time with simple, effective cleaning routines.',
+    'Descaling essential areas such as taps and bathroom fixtures.',
   ],
   author: 'Sarah M.',
   date: 'July 2025',
@@ -331,7 +332,7 @@ const teamMembers = [
           </div>
         </section>
 
-        {/* Team Section */}
+        {/* Team Section 
         <section aria-labelledby="team-heading" className="team-section">
           <div className="container">
             <header className="team-header">
@@ -393,7 +394,7 @@ const teamMembers = [
               ))}
             </div>
           </div>
-        </section>
+        </section>*/}
 
         {/* Pricing Section }
         <section aria-labelledby="pricing-title" className="pricing-section">
